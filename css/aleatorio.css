@@ -24,3 +24,22 @@
 	top:0.67em;
 	left:0.13em;
 }
+
+
+
+#SAS {
+	width: 50%;
+}
+
+#SSR {
+	width: 40%;
+}
+
+.pesquisas {
+	display: inline-block;
+}
+
+.pesquisas legend {
+	width: 100%;
+	text-align: center;
+}
