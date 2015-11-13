@@ -15,17 +15,21 @@
 	width: 30%;	
 }
 
-.reveal .problemas span {
+.reveal .problemas span{
 	display: inline-block;
 	margin-top: 0.2em; 
 }
+
+.reveal .Alternativa span{
+	display: block;
+	margin-top: 0.2em;
+}
+
 .naoRetro {
 	position: absolute;
 	top:0.67em;
 	left:0.13em;
 }
-
-
 
 #SAS {
 	width: 50%;
