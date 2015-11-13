@@ -5,14 +5,29 @@
 	left:12em;
 }
 
+.telasTodosTimes {
+	position: relative;
+}
+
+.telasTimes {
+	position: relative;
+	z-index: 10;
+}
+
+.telasTimes {
+	position: absolute;
+	z-index: 100;
+}
+
 .times {
-	float: left;
 	display: inline-block;
-	width: 30%;
+	width: 11em;
+	height: 8em;
 }
 
 .times2 {
-	width: 30%;	
+	width: 24em;	
+	height: 8em;
 }
 
 .reveal .problemas span{
